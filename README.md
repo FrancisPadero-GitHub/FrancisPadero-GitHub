@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**FrancisPadero-GitHub/FrancisPadero-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here are a few project highlights and the tech stack I use most.
 
-Here are some ideas to get you started:
+### Project Highlights
+- **Highlight 1** — _Add a short description of the project and its impact._
+- **Highlight 2** — _Add a short description of the project and its impact._
+- **Highlight 3** — _Add a short description of the project and its impact._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages:** _Add your top languages._
+- **Frameworks & Libraries:** _Add the frameworks and libraries you use._
+- **Tools & Platforms:** _Add your tools, cloud platforms, and services._
+- **Databases:** _Add the databases or data stores you work with._
